@@ -1,0 +1,5 @@
+# Add here all the Python packages required by your project. These packages
+# will be also installed in the target Digi device. For example:
+#
+# pyserial > 3
+# MySQL-python
